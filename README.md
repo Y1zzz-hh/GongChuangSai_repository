@@ -1,2 +1,2 @@
 # GongChuangSai_repository
-Hust students preparetion for 
+Hust students preparetion for 工创赛
